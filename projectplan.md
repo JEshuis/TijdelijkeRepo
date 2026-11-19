@@ -1,3 +1,5 @@
+haha, merge conflicts.
+
 Dit is ons projectplan, ons projectplan is uniek. 
 Wij zijn de enige met dit precieze projectplan, er zijn geen andere projectplannen die er precies zo uitzien. 
 Voor dit project gaan wij gebruik maken van github en gaan er waarschijnlijk ook wel merge conflicten optreden. 
